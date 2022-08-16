@@ -1,5 +1,5 @@
 {
-  "name": "@variate/engine",
+  "name": "@hotelspider/variate-engine",
   "version": "3.3.0",
   "description": "Variate AB testing engine for modern applications",
   "author": "Valentin Prugnaud <valentin.prugnaud@variate.ca>",
